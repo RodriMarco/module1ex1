@@ -1,5 +1,65 @@
 h1{
-    color:cornflowerblue;
+    color: whitesmoke;
     font-family:Georgia;
-    text-align:center;
+    text-align:left;
+
 }
+
+h2{
+    color:rgba(0,0,0,1);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(123,125,122,0.7);
+    text-align: center;
+    margin: 10px;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 15px;
+}
+
+
+body{
+    background-color: black;
+}
+
+aside{
+    color: whitesmoke;
+    float:left;
+    width: 22rem;
+    background-color: black;
+}
+
+#Cuerpo{
+    color: whitesmoke;
+    margin-left: 380px;
+    background-color: black;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+footer {
+    background-color:black;
+    color: whitesmoke;
+    height: 70px;
+    text-align: center;
+}
+
+#FotoCV {
+    width: 22rem;
+    height: 15rem;
+    border-radius: 50%;
+}
+
+/* #ExperienciasLaborales {
+    width: 35rem;
+}
+
+#FormacionAcademica {
+    width: 35rem;
+}
+
+#Descripcion {
+    width:35rem;
+}  */
+
