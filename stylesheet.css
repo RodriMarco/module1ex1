@@ -51,6 +51,9 @@ footer {
     border-radius: 50%;
 }
 
+.cursiva {
+    font-style: oblique;
+}
 /* #ExperienciasLaborales {
     width: 35rem;
 }
